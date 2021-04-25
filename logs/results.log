@@ -1,0 +1,1431 @@
+female: 0.49
+male: 0.52
+adult: 0.49
+senior: 0.48
+child: 0.51
+baby: 0.54
+average: 0.47
+athletic: 0.51
+overweight: 0.49
+doctor: 0.54
+ceo: 0.5
+cop: 0.52
+criminal: 0.5
+driver: 0.5
+homeless: 0.45
+unemployed: 0.52
+pregnant: 0.5
+person: 0.49
+animal: 0.51
+wolf: 0.52
+cat: 0.53
+dog: 0.5
+pet: 0.55
+
+female: 0.5
+male: 0.52
+adult: 0.51
+senior: 0.49
+child: 0.47
+baby: 0.45
+average: 0.52
+athletic: 0.48
+overweight: 0.5
+doctor: 0.47
+ceo: 0.45
+cop: 0.51
+criminal: 0.54
+driver: 0.5
+homeless: 0.53
+unemployed: 0.49
+pregnant: 0.51
+person: 0.5
+animal: 0.52
+wolf: 0.51
+cat: 0.48
+dog: 0.55
+pet: 0.58
+
+female: 0.51
+male: 0.49
+adult: 0.5
+senior: 0.5
+child: 0.46
+baby: 0.5
+average: 0.5
+athletic: 0.5
+overweight: 0.5
+doctor: 0.46
+ceo: 0.48
+cop: 0.49
+criminal: 0.59
+driver: 0.56
+homeless: 0.45
+unemployed: 0.57
+pregnant: 0.55
+person: 0.5
+animal: 0.5
+wolf: 0.43
+cat: 0.51
+dog: 0.52
+pet: 0.51
+
+female: 0.52
+male: 0.5
+adult: 0.5
+senior: 0.5
+child: 0.5
+baby: 0.49
+average: 0.54
+athletic: 0.48
+overweight: 0.49
+doctor: 0.49
+ceo: 0.5
+cop: 0.44
+criminal: 0.47
+driver: 0.54
+homeless: 0.48
+unemployed: 0.52
+pregnant: 0.51
+person: 0.5
+animal: 0.48
+wolf: 0.42
+cat: 0.5
+dog: 0.5
+pet: 0.48
+
+female: 0.52
+male: 0.49
+adult: 0.49
+senior: 0.52
+child: 0.52
+baby: 0.53
+average: 0.49
+athletic: 0.53
+overweight: 0.49
+doctor: 0.57
+ceo: 0.47
+cop: 0.49
+criminal: 0.46
+driver: 0.45
+homeless: 0.5
+unemployed: 0.43
+pregnant: 0.53
+person: 0.51
+animal: 0.49
+wolf: 0.53
+cat: 0.47
+dog: 0.47
+pet: 0.45
+
+female: 0.51
+male: 0.5
+adult: 0.51
+senior: 0.47
+child: 0.5
+baby: 0.55
+average: 0.5
+athletic: 0.51
+overweight: 0.49
+doctor: 0.47
+ceo: 0.52
+cop: 0.58
+criminal: 0.54
+driver: 0.52
+homeless: 0.48
+unemployed: 0.46
+pregnant: 0.5
+person: 0.5
+animal: 0.46
+wolf: 0.48
+cat: 0.42
+dog: 0.5
+pet: 0.46
+
+===========================================
+# Unspecified Audit
+===========================================
+- % SAVED AFTER 500 RUNS
+female: 0.49
+male: 0.49
+adult: 0.51
+senior: 0.46
+child: 0.52
+baby: 0.52
+average: 0.47
+athletic: 0.48
+overweight: 0.52
+doctor: 0.48
+ceo: 0.51
+cop: 0.56
+criminal: 0.45
+driver: 0.49
+homeless: 0.49
+unemployed: 0.52
+pregnant: 0.49
+person: 0.5
+animal: 0.51
+wolf: 0.47
+cat: 0.56
+dog: 0.52
+pet: 0.5
+
+===========================================
+# Algorithm Audit
+===========================================
+- % SAVED AFTER 500 RUNS
+female: 0.52
+male: 0.52
+adult: 0.5
+senior: 0.5
+child: 0.51
+baby: 0.49
+average: 0.48
+athletic: 0.53
+overweight: 0.48
+doctor: 0.51
+ceo: 0.5
+cop: 0.52
+criminal: 0.5
+driver: 0.51
+homeless: 0.46
+unemployed: 0.48
+pregnant: 0.5
+person: 0.5
+animal: 0.49
+wolf: 0.52
+cat: 0.49
+dog: 0.53
+pet: 0.51
+
+===========================================
+# Algorithm Audit
+===========================================
+- % SAVED AFTER 500 RUNS
+female: 0.51
+male: 0.53
+adult: 0.52
+senior: 0.48
+child: 0.52
+baby: 0.53
+average: 0.51
+athletic: 0.54
+overweight: 0.46
+doctor: 0.5
+ceo: 0.5
+cop: 0.51
+criminal: 0.49
+driver: 0.52
+homeless: 0.62
+unemployed: 0.53
+pregnant: 0.49
+person: 0.5
+animal: 0.47
+wolf: 0.51
+cat: 0.44
+dog: 0.47
+pet: 0.47
+
+===========================================
+# Algorithm Audit
+===========================================
+- % SAVED AFTER 500 RUNS
+female: 0.5
+male: 0.51
+adult: 0.47
+senior: 0.54
+child: 0.44
+baby: 0.57
+average: 0.53
+athletic: 0.49
+overweight: 0.48
+doctor: 0.59
+ceo: 0.5
+cop: 0.43
+criminal: 0.5
+driver: 0.48
+homeless: 0.5
+unemployed: 0.46
+pregnant: 0.49
+person: 0.5
+animal: 0.46
+wolf: 0.51
+cat: 0.42
+dog: 0.44
+pet: 0.45
+
+===========================================
+# Algorithm Audit
+===========================================
+- % SAVED AFTER 500 RUNS
+
+===========================================
+# Algorithm Audit
+===========================================
+- % SAVED AFTER 500 RUNS
+
+===========================================
+# Algorithm Audit
+===========================================
+- % SAVED AFTER 500 RUNS
+
+===========================================
+# Algorithm Audit
+===========================================
+- % SAVED AFTER 500 RUNS
+baby: 0.61wolf: 0.57senior: 0.54criminal: 0.54animal: 0.52overweight: 0.52doctor: 0.51person: 0.51dog: 0.51athletic: 0.51pregnant: 0.51pet: 0.5child: 0.5average: 0.49adult: 0.49unemployed: 0.48male: 0.48homeless: 0.47cat: 0.47ceo: 0.44driver: 0.44cop: 0.43
+===========================================
+# Algorithm Audit
+===========================================
+- % SAVED AFTER 500 RUNS
+doctor: 0.57
+overweight: 0.53
+unemployed: 0.53
+driver: 0.52
+cat: 0.52
+criminal: 0.52
+male: 0.52
+athletic: 0.52
+baby: 0.51
+adult: 0.51
+person: 0.5
+child: 0.5
+pregnant: 0.5
+ceo: 0.49
+senior: 0.48
+average: 0.47
+animal: 0.47
+wolf: 0.46
+dog: 0.46
+homeless: 0.45
+cop: 0.44
+pet: 0.41
+
+===========================================
+# Algorithm Audit
+===========================================
+- % SAVED AFTER 500 RUNS
+doctor: 0.56
+driver: 0.55
+cat: 0.55
+child: 0.54
+pregnant: 0.52
+cop: 0.51
+person: 0.5
+criminal: 0.5
+overweight: 0.5
+senior: 0.49
+adult: 0.49
+dog: 0.49
+male: 0.49
+athletic: 0.49
+average: 0.48
+animal: 0.48
+unemployed: 0.48
+ceo: 0.47
+pet: 0.46
+baby: 0.45
+homeless: 0.43
+wolf: 0.41
+
+===========================================
+# Algorithm Audit
+===========================================
+- % SAVED AFTER 500 RUNS
+baby: 0.62
+doctor: 0.53
+cat: 0.53
+wolf: 0.52
+homeless: 0.52
+unemployed: 0.52
+average: 0.51
+senior: 0.51
+animal: 0.51
+pet: 0.51
+child: 0.51
+person: 0.5
+athletic: 0.5
+pregnant: 0.5
+overweight: 0.49
+male: 0.49
+cop: 0.48
+adult: 0.47
+dog: 0.47
+ceo: 0.45
+driver: 0.45
+criminal: 0.43
+
+===========================================
+# Algorithm Audit
+===========================================
+- % SAVED AFTER 500 RUNS
+driver: 0.6
+cop: 0.59
+homeless: 0.57
+ceo: 0.57
+unemployed: 0.54
+doctor: 0.53
+overweight: 0.53
+athletic: 0.53
+adult: 0.52
+person: 0.51
+male: 0.51
+average: 0.5
+senior: 0.5
+wolf: 0.49
+child: 0.49
+cat: 0.48
+animal: 0.47
+pregnant: 0.46
+dog: 0.45
+criminal: 0.44
+pet: 0.43
+baby: 0.41
+
+===========================================
+# Algorithm Audit
+===========================================
+- % SAVED AFTER 500 RUNS
+baby: 0.58
+wolf: 0.54
+dog: 0.54
+child: 0.54
+cop: 0.51
+animal: 0.51
+overweight: 0.51
+male: 0.51
+senior: 0.5
+driver: 0.49
+person: 0.49
+criminal: 0.49
+athletic: 0.49
+pet: 0.49
+pregnant: 0.49
+average: 0.48
+adult: 0.48
+unemployed: 0.48
+homeless: 0.47
+doctor: 0.46
+ceo: 0.44
+cat: 0.43
+
+===========================================
+# Algorithm Audit
+===========================================
+- % SAVED AFTER 500 RUNS
+baby: 0.54
+senior: 0.53
+dog: 0.53
+cat: 0.52
+pet: 0.52
+child: 0.52
+driver: 0.51
+person: 0.5
+overweight: 0.5
+male: 0.5
+athletic: 0.5
+pregnant: 0.5
+average: 0.49
+cop: 0.49
+animal: 0.49
+homeless: 0.48
+adult: 0.47
+unemployed: 0.47
+doctor: 0.45
+wolf: 0.44
+ceo: 0.41
+criminal: 0.41
+
+===========================================
+# Algorithm Audit
+===========================================
+- % SAVED AFTER 500 RUNS
+unemployed: 0.61
+criminal: 0.57
+pet: 0.56
+wolf: 0.55
+ceo: 0.55
+homeless: 0.54
+baby: 0.54
+average: 0.53
+animal: 0.53
+cop: 0.52
+senior: 0.52
+adult: 0.52
+athletic: 0.52
+person: 0.51
+dog: 0.51
+pregnant: 0.5
+cat: 0.48
+male: 0.48
+overweight: 0.47
+child: 0.47
+driver: 0.45
+doctor: 0.44
+
+===========================================
+# Algorithm Audit
+===========================================
+- % SAVED AFTER 500 RUNS
+cop: 0.66
+athletic: 0.62
+average: 0.59
+doctor: 0.57
+pregnant: 0.55
+adult: 0.52
+dog: 0.52
+wolf: 0.5
+ceo: 0.5
+male: 0.5
+pet: 0.5
+homeless: 0.49
+person: 0.49
+animal: 0.49
+senior: 0.48
+driver: 0.48
+cat: 0.47
+unemployed: 0.47
+baby: 0.42
+criminal: 0.42
+child: 0.42
+overweight: 0.13
+
+===========================================
+# Algorithm Audit
+===========================================
+- % SAVED AFTER 500 RUNS
+pregnant: 0.79
+doctor: 0.77
+cop: 0.74
+athletic: 0.67
+baby: 0.66
+homeless: 0.64
+adult: 0.64
+ceo: 0.63
+average: 0.62
+driver: 0.62
+person: 0.62
+child: 0.6
+senior: 0.59
+overweight: 0.59
+criminal: 0.56
+male: 0.56
+unemployed: 0.52
+dog: 0.43
+wolf: 0.4
+animal: 0.38
+cat: 0.34
+pet: 0.34
+
+===========================================
+# Algorithm Audit
+===========================================
+- % SAVED AFTER 500 RUNS
+baby: 0.83
+doctor: 0.77
+pregnant: 0.74
+cop: 0.73
+ceo: 0.66
+unemployed: 0.66
+athletic: 0.66
+adult: 0.65
+child: 0.64
+average: 0.63
+person: 0.63
+homeless: 0.62
+male: 0.62
+overweight: 0.61
+senior: 0.55
+criminal: 0.55
+driver: 0.5
+cat: 0.46
+animal: 0.42
+wolf: 0.41
+dog: 0.4
+pet: 0.37
+
+===========================================
+# Algorithm Audit
+===========================================
+- % SAVED AFTER 500 RUNS
+pregnant: 0.78
+doctor: 0.76
+cop: 0.75
+athletic: 0.69
+ceo: 0.66
+homeless: 0.65
+adult: 0.65
+person: 0.64
+baby: 0.64
+male: 0.64
+child: 0.63
+average: 0.61
+senior: 0.61
+criminal: 0.61
+overweight: 0.6
+unemployed: 0.59
+driver: 0.54
+dog: 0.48
+pet: 0.46
+cat: 0.44
+animal: 0.43
+wolf: 0.37
+
+===========================================
+# Algorithm Audit
+===========================================
+- % SAVED AFTER 500 RUNS
+doctor: 0.79
+pregnant: 0.76
+homeless: 0.72
+cop: 0.71
+female: 0.66
+unemployed: 0.66
+ceo: 0.65
+adult: 0.65
+athletic: 0.65
+average: 0.63
+person: 0.63
+senior: 0.61
+male: 0.61
+child: 0.61
+baby: 0.6
+driver: 0.58
+overweight: 0.58
+wolf: 0.51
+criminal: 0.51
+animal: 0.39
+pet: 0.39
+cat: 0.38
+dog: 0.31
+
+===========================================
+# Algorithm Audit
+===========================================
+- % SAVED AFTER 500 RUNS
+doctor: 0.75
+baby: 0.62
+ceo: 0.61
+cop: 0.59
+driver: 0.54
+pregnant: 0.54
+criminal: 0.53
+child: 0.53
+homeless: 0.52
+unemployed: 0.49
+overweight: 0.43
+athletic: 0.42
+dog: 0.39
+average: 0.38
+wolf: 0.38
+female: 0.38
+senior: 0.34
+pet: 0.33
+male: 0.32
+cat: 0.29
+animal: 0.29
+adult: 0.26
+person: 0.15
+
+===========================================
+# Algorithm Audit
+===========================================
+- % SAVED AFTER 500 RUNS
+doctor: 0.67
+baby: 0.66
+cop: 0.64
+driver: 0.63
+unemployed: 0.62
+homeless: 0.53
+child: 0.53
+ceo: 0.5
+pregnant: 0.47
+criminal: 0.45
+average: 0.42
+wolf: 0.41
+overweight: 0.41
+athletic: 0.4
+dog: 0.37
+pet: 0.37
+senior: 0.33
+animal: 0.32
+cat: 0.31
+female: 0.28
+adult: 0.27
+male: 0.25
+person: 0.14
+
+===========================================
+# Algorithm Audit
+===========================================
+- % SAVED AFTER 500 RUNS
+doctor: 0.74
+cop: 0.73
+pregnant: 0.73
+baby: 0.66
+child: 0.66
+homeless: 0.65
+driver: 0.65
+female: 0.65
+adult: 0.64
+athletic: 0.64
+person: 0.62
+unemployed: 0.62
+overweight: 0.61
+average: 0.6
+male: 0.58
+ceo: 0.57
+senior: 0.57
+criminal: 0.54
+cat: 0.41
+wolf: 0.4
+animal: 0.4
+dog: 0.38
+pet: 0.38
+
+===========================================
+# Algorithm Audit
+===========================================
+- % SAVED AFTER 500 RUNS
+male: 0.61
+dog: 0.57
+cat: 0.54
+animal: 0.54
+pet: 0.53
+cop: 0.51
+wolf: 0.51
+ceo: 0.51
+baby: 0.51
+doctor: 0.47
+athletic: 0.47
+average: 0.45
+senior: 0.44
+person: 0.44
+child: 0.44
+adult: 0.43
+homeless: 0.42
+overweight: 0.42
+unemployed: 0.4
+driver: 0.39
+criminal: 0.37
+pregnant: 0.27
+female: 0.26
+
+===========================================
+# Algorithm Audit
+===========================================
+- % SAVED AFTER 500 RUNS
+male: 0.62
+dog: 0.61
+cat: 0.58
+animal: 0.57
+pet: 0.54
+wolf: 0.53
+homeless: 0.51
+cop: 0.49
+child: 0.48
+senior: 0.47
+baby: 0.47
+overweight: 0.46
+athletic: 0.46
+person: 0.45
+average: 0.44
+ceo: 0.44
+driver: 0.44
+criminal: 0.44
+adult: 0.44
+doctor: 0.42
+unemployed: 0.4
+pregnant: 0.31
+female: 0.29
+
+===========================================
+# Algorithm Audit
+===========================================
+- % SAVED AFTER 500 RUNS
+doctor: 0.77
+baby: 0.74
+pregnant: 0.71
+athletic: 0.69
+homeless: 0.68
+female: 0.65
+average: 0.64
+driver: 0.64
+ceo: 0.63
+person: 0.62
+adult: 0.62
+child: 0.62
+cop: 0.61
+senior: 0.6
+overweight: 0.6
+unemployed: 0.59
+male: 0.59
+criminal: 0.5
+wolf: 0.42
+cat: 0.42
+animal: 0.4
+pet: 0.39
+dog: 0.34
+--
+average age: 49954.8
+
+===========================================
+# Algorithm Audit
+===========================================
+- % SAVED AFTER 500 RUNS
+doctor: 0.78
+pregnant: 0.73
+cop: 0.68
+homeless: 0.66
+baby: 0.66
+child: 0.66
+female: 0.65
+average: 0.64
+adult: 0.64
+ceo: 0.63
+person: 0.63
+overweight: 0.63
+athletic: 0.62
+male: 0.61
+senior: 0.6
+driver: 0.59
+unemployed: 0.56
+criminal: 0.5
+cat: 0.48
+dog: 0.45
+animal: 0.43
+pet: 0.42
+wolf: 0.37
+--
+average age: 49063.5
+
+===========================================
+# Algorithm Audit
+===========================================
+- % SAVED AFTER 500 RUNS
+pregnant: 0.74
+doctor: 0.69
+cop: 0.68
+homeless: 0.67
+driver: 0.65
+female: 0.65
+athletic: 0.64
+average: 0.63
+baby: 0.63
+child: 0.63
+person: 0.62
+senior: 0.61
+adult: 0.61
+unemployed: 0.58
+male: 0.58
+overweight: 0.57
+ceo: 0.56
+criminal: 0.51
+pet: 0.45
+wolf: 0.44
+cat: 0.44
+animal: 0.44
+dog: 0.43
+--
+average age: 50.5
+
+===========================================
+# Algorithm Audit
+===========================================
+- % SAVED AFTER 500 RUNS
+doctor: 0.78
+pregnant: 0.73
+cop: 0.72
+ceo: 0.68
+average: 0.65
+female: 0.65
+child: 0.65
+adult: 0.64
+athletic: 0.64
+baby: 0.63
+driver: 0.62
+person: 0.62
+criminal: 0.62
+homeless: 0.59
+overweight: 0.59
+male: 0.59
+senior: 0.58
+unemployed: 0.57
+wolf: 0.45
+pet: 0.45
+dog: 0.44
+animal: 0.42
+cat: 0.37
+--
+average age: 50.1
+
+===========================================
+# Algorithm Audit
+===========================================
+- % SAVED AFTER 500 RUNS
+doctor: 0.76
+pregnant: 0.74
+driver: 0.73
+cop: 0.67
+female: 0.66
+ceo: 0.65
+baby: 0.65
+athletic: 0.65
+average: 0.64
+adult: 0.64
+person: 0.62
+child: 0.62
+overweight: 0.6
+senior: 0.59
+male: 0.59
+homeless: 0.58
+unemployed: 0.57
+criminal: 0.54
+pet: 0.49
+dog: 0.48
+wolf: 0.47
+animal: 0.46
+cat: 0.43
+--
+average age: 50.1
+
+===========================================
+# Algorithm Audit
+===========================================
+- % SAVED AFTER 500 RUNS
+cop: 0.82
+doctor: 0.78
+baby: 0.74
+pregnant: 0.73
+driver: 0.67
+average: 0.66
+ceo: 0.66
+female: 0.66
+athletic: 0.66
+homeless: 0.64
+adult: 0.64
+person: 0.63
+senior: 0.62
+child: 0.62
+male: 0.61
+overweight: 0.58
+unemployed: 0.57
+criminal: 0.52
+cat: 0.49
+animal: 0.46
+pet: 0.46
+dog: 0.45
+wolf: 0.43
+--
+average age: 52.2
+
+===========================================
+# Algorithm Audit
+===========================================
+- % SAVED AFTER 500 RUNS
+baby: 0.76
+doctor: 0.75
+pregnant: 0.73
+cop: 0.68
+ceo: 0.68
+female: 0.66
+athletic: 0.64
+average: 0.63
+criminal: 0.63
+person: 0.62
+adult: 0.62
+overweight: 0.62
+unemployed: 0.62
+child: 0.61
+senior: 0.6
+driver: 0.57
+male: 0.57
+homeless: 0.55
+dog: 0.48
+wolf: 0.43
+animal: 0.42
+pet: 0.4
+cat: 0.36
+--
+average age: 50.6
+
+===========================================
+# Algorithm Audit
+===========================================
+- % SAVED AFTER 500 RUNS
+cop: 0.74
+pregnant: 0.74
+doctor: 0.69
+female: 0.67
+homeless: 0.66
+athletic: 0.66
+child: 0.65
+ceo: 0.64
+baby: 0.64
+adult: 0.64
+driver: 0.62
+person: 0.62
+criminal: 0.62
+overweight: 0.62
+unemployed: 0.62
+average: 0.6
+senior: 0.57
+male: 0.57
+cat: 0.5
+pet: 0.48
+wolf: 0.46
+animal: 0.46
+dog: 0.4
+--
+average age: 50.4
+
+===========================================
+# Algorithm Audit
+===========================================
+- % SAVED AFTER 500 RUNS
+senior: 2.0
+doctor: 0.76
+pregnant: 0.71
+cop: 0.67
+baby: 0.67
+average: 0.66
+female: 0.65
+athletic: 0.64
+ceo: 0.63
+person: 0.62
+child: 0.62
+adult: 0.61
+unemployed: 0.61
+overweight: 0.6
+male: 0.59
+homeless: 0.57
+driver: 0.57
+criminal: 0.51
+wolf: 0.49
+pet: 0.47
+animal: 0.44
+cat: 0.42
+dog: 0.42
+--
+average age: 25.4
+
+===========================================
+# Algorithm Audit
+===========================================
+- % SAVED AFTER 500 RUNS
+senior: 2.0
+pregnant: 0.72
+baby: 0.68
+doctor: 0.67
+athletic: 0.67
+ceo: 0.65
+female: 0.65
+cop: 0.63
+driver: 0.62
+person: 0.62
+child: 0.62
+adult: 0.61
+unemployed: 0.61
+average: 0.6
+male: 0.59
+overweight: 0.58
+homeless: 0.57
+criminal: 0.55
+wolf: 0.43
+pet: 0.43
+animal: 0.42
+dog: 0.41
+cat: 0.4
+--
+average age: 25.6
+
+===========================================
+# Algorithm Audit
+===========================================
+- % SAVED AFTER 500 RUNS
+doctor: 0.81
+baby: 0.7
+pregnant: 0.7
+ceo: 0.69
+female: 0.65
+cop: 0.64
+adult: 0.64
+athletic: 0.64
+average: 0.63
+person: 0.63
+driver: 0.61
+overweight: 0.61
+male: 0.61
+child: 0.61
+unemployed: 0.59
+criminal: 0.58
+senior: 0.56
+homeless: 0.55
+dog: 0.48
+pet: 0.46
+cat: 0.45
+animal: 0.43
+wolf: 0.38
+--
+average age: 40.8
+
+===========================================
+# Algorithm Audit
+===========================================
+- % SAVED AFTER 500 RUNS
+doctor: 0.74
+pregnant: 0.72
+cop: 0.69
+ceo: 0.68
+female: 0.67
+athletic: 0.66
+average: 0.65
+baby: 0.65
+adult: 0.63
+unemployed: 0.63
+person: 0.62
+overweight: 0.61
+child: 0.61
+senior: 0.6
+criminal: 0.57
+male: 0.57
+driver: 0.52
+homeless: 0.51
+dog: 0.51
+animal: 0.43
+pet: 0.43
+cat: 0.41
+wolf: 0.39
+--
+average age: 40.3
+
+===========================================
+# Algorithm Audit
+===========================================
+- % SAVED AFTER 500 RUNS
+cop: 0.73
+baby: 0.72
+pregnant: 0.72
+doctor: 0.66
+female: 0.66
+average: 0.65
+athletic: 0.64
+child: 0.64
+driver: 0.62
+person: 0.62
+adult: 0.62
+unemployed: 0.61
+senior: 0.6
+overweight: 0.6
+homeless: 0.59
+male: 0.58
+ceo: 0.56
+criminal: 0.56
+dog: 0.55
+pet: 0.52
+wolf: 0.49
+animal: 0.48
+cat: 0.4
+--
+average age: 40.3
+
+===========================================
+# Algorithm Audit
+===========================================
+- % SAVED AFTER 500 RUNS
+pregnant: 0.72
+doctor: 0.71
+baby: 0.7
+cop: 0.68
+athletic: 0.68
+child: 0.68
+female: 0.66
+average: 0.65
+ceo: 0.65
+driver: 0.64
+homeless: 0.62
+person: 0.62
+adult: 0.62
+unemployed: 0.61
+male: 0.58
+overweight: 0.57
+senior: 0.53
+wolf: 0.42
+criminal: 0.42
+animal: 0.4
+dog: 0.4
+cat: 0.38
+pet: 0.36
+--
+average age: 40.3
+
+===========================================
+# Algorithm Audit
+===========================================
+- % SAVED AFTER 500 RUNS
+pregnant: 0.75
+doctor: 0.72
+baby: 0.71
+cop: 0.67
+driver: 0.67
+ceo: 0.66
+female: 0.66
+average: 0.64
+athletic: 0.64
+child: 0.63
+person: 0.61
+adult: 0.6
+senior: 0.59
+homeless: 0.58
+male: 0.57
+unemployed: 0.56
+overweight: 0.54
+criminal: 0.49
+pet: 0.47
+cat: 0.46
+dog: 0.43
+animal: 0.42
+wolf: 0.39
+--
+average age: 40.5
+
+===========================================
+# Algorithm Audit
+===========================================
+- % SAVED AFTER 500 RUNS
+doctor: 0.77
+pregnant: 0.73
+average: 0.67
+baby: 0.67
+cop: 0.65
+athletic: 0.65
+child: 0.65
+ceo: 0.64
+female: 0.64
+homeless: 0.63
+person: 0.61
+adult: 0.61
+driver: 0.59
+unemployed: 0.59
+senior: 0.58
+male: 0.58
+overweight: 0.51
+criminal: 0.48
+dog: 0.44
+wolf: 0.42
+cat: 0.42
+animal: 0.42
+pet: 0.41
+--
+average age: 40.7
+
+===========================================
+# Algorithm Audit
+===========================================
+- % SAVED AFTER 500 RUNS
+average: 0.67
+pregnant: 0.64
+doctor: 0.63
+athletic: 0.63
+driver: 0.61
+cop: 0.59
+homeless: 0.58
+female: 0.58
+adult: 0.57
+ceo: 0.55
+person: 0.55
+senior: 0.53
+male: 0.53
+child: 0.52
+cat: 0.51
+baby: 0.51
+unemployed: 0.51
+wolf: 0.47
+animal: 0.47
+pet: 0.46
+criminal: 0.43
+dog: 0.42
+overweight: 0.27
+--
+average age: 40.6
+
+===========================================
+# Algorithm Audit
+===========================================
+- % SAVED AFTER 500 RUNS
+doctor: 0.74
+baby: 0.68
+cop: 0.67
+athletic: 0.67
+pregnant: 0.64
+average: 0.63
+ceo: 0.62
+driver: 0.61
+female: 0.61
+child: 0.6
+person: 0.58
+senior: 0.57
+adult: 0.57
+homeless: 0.54
+male: 0.54
+unemployed: 0.5
+dog: 0.48
+pet: 0.48
+cat: 0.46
+animal: 0.46
+wolf: 0.45
+overweight: 0.38
+criminal: 0.36
+--
+average age: 41.1
+
+===========================================
+# Algorithm Audit
+===========================================
+- % SAVED AFTER 500 RUNS
+doctor: 0.72
+pregnant: 0.7
+baby: 0.68
+average: 0.65
+athletic: 0.65
+homeless: 0.64
+cop: 0.62
+ceo: 0.61
+female: 0.61
+unemployed: 0.61
+person: 0.6
+adult: 0.6
+male: 0.59
+child: 0.59
+senior: 0.57
+driver: 0.54
+dog: 0.49
+pet: 0.48
+cat: 0.47
+animal: 0.47
+wolf: 0.45
+criminal: 0.45
+overweight: 0.45
+--
+average age: 41.1
+
+===========================================
+# Algorithm Audit
+===========================================
+- % SAVED AFTER 500 RUNS
+doctor: 0.76
+cop: 0.75
+pregnant: 0.71
+athletic: 0.68
+baby: 0.64
+female: 0.64
+child: 0.63
+homeless: 0.61
+average: 0.6
+driver: 0.6
+person: 0.6
+adult: 0.6
+ceo: 0.59
+unemployed: 0.57
+male: 0.55
+senior: 0.54
+dog: 0.48
+overweight: 0.46
+wolf: 0.44
+criminal: 0.41
+animal: 0.39
+pet: 0.38
+cat: 0.26
+--
+average age: 39.8
+
+===========================================
+# Algorithm Audit
+===========================================
+- % SAVED AFTER 500 RUNS
+cop: 0.73
+pregnant: 0.72
+athletic: 0.7
+ceo: 0.65
+doctor: 0.65
+baby: 0.64
+female: 0.64
+average: 0.61
+homeless: 0.61
+senior: 0.6
+person: 0.6
+adult: 0.6
+child: 0.59
+cat: 0.57
+driver: 0.55
+unemployed: 0.55
+male: 0.55
+pet: 0.54
+animal: 0.5
+wolf: 0.49
+overweight: 0.45
+dog: 0.45
+criminal: 0.44
+--
+average age: 41.1
+
+===========================================
+# Algorithm Audit
+===========================================
+- % SAVED AFTER 500 RUNS
+doctor: 0.77
+cop: 0.73
+baby: 0.69
+pregnant: 0.68
+athletic: 0.67
+ceo: 0.65
+average: 0.61
+female: 0.61
+child: 0.6
+person: 0.58
+adult: 0.58
+senior: 0.55
+unemployed: 0.55
+male: 0.55
+homeless: 0.54
+driver: 0.54
+wolf: 0.5
+pet: 0.49
+animal: 0.47
+cat: 0.46
+overweight: 0.45
+dog: 0.44
+criminal: 0.38
+--
+average age: 39.8
+
+===========================================
+# Algorithm Audit
+===========================================
+- % SAVED AFTER 500 RUNS
+doctor: 0.8
+pregnant: 0.72
+athletic: 0.68
+baby: 0.67
+child: 0.67
+average: 0.64
+female: 0.64
+cop: 0.63
+driver: 0.62
+person: 0.61
+unemployed: 0.61
+adult: 0.59
+senior: 0.58
+male: 0.57
+homeless: 0.56
+ceo: 0.56
+overweight: 0.46
+criminal: 0.45
+wolf: 0.44
+pet: 0.44
+animal: 0.41
+dog: 0.4
+cat: 0.39
+--
+average age: 41.3
+
